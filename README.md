@@ -1,1 +1,2 @@
 # diagrama_flujo
+este diagrama nos muestra los pasos a seguir en la preparacion de una sopa, primero verificamos si tenemos todos los ingredientes, si no es el caso salimos a comprar y volvemos al paso inicial, despues nos preguntamos si debemos picar algun tipo de verdura, ya depende que tipo de sopa quieras realizar, si es el caso las lavamos y cortamos para luego pasar al penultimo paso que seria freir la sopa, por ultimo cocinamos y servimos nuestra sopa.
